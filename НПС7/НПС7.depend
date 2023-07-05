@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688583827 source:c:\users\ipz22\onedrive\Документи\НПС7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
